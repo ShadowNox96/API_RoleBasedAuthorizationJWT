@@ -1,0 +1,3 @@
+Un middleware es una funcion que recive req, resp y next, 
+
+Por ejemplo cuando yo ejecuto la funcion middleware, va a continuar el proceso despues de la finalizacion de la misma, esta se antepone en las funciones. Funciona como un intermediario
