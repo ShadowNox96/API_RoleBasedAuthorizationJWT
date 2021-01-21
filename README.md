@@ -1,6 +1,7 @@
 "# API_RoleBasedAuthorizationJWT" 
 
   API creada con el fin de tener un modulo de seguridad que permita la creacion de nuevos usuarios, el login y proteccion de rutas por medio de JWT y un manejo de roles dentro de las mismas.
+  
   Requisitos:
   
     - Tener instalado Node Js
